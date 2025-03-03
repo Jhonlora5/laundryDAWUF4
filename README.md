@@ -36,3 +36,4 @@
 
 ---
 Modificació des de la branca featureJLR
+Un altre canvi a develop sense GitFlow
