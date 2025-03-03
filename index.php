@@ -40,3 +40,4 @@
 
 </body>
 </html>
+// Aquest és un hotfix per solucionar bug1
